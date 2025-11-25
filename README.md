@@ -1,2 +1,3 @@
 # stack-heap-diagram
 Repository containing Stack-Heap Diagram assignment for Java memory model in tables.
+This diagram illustrates the step-by-step memory allocation in Java during the execution of a sample program. It shows how variables are stored in the stack and how objects are created and referenced in the heap. The diagram includes stack frames for main, fill, and shrink methods, and depicts heap objects such as interned strings, concatenated strings, character arrays, and an ArrayList with multiple references. The execution sequence and memory transitions are clearly mapped to demonstrate understanding of the Java Memory Model.
